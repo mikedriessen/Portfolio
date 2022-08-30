@@ -6,9 +6,12 @@ Place to edit, host and look at my current Portfolio.
 <p>My name is Mike, enjoy my portfolio files ^^</p>
 
 <ul>
-  <li>Happy Coding</li>
-  <li>Software Product Sprint</li>
-  <li>Google Maps</li>
+  <li>Interactive media</li>
+  <li>Development</li>
+  <li>Design</li>
+  <li>Research</li>
+  <li>Communication</li>
+  <li>Professional Identity</li>
 </ul>
 
 <hr>
