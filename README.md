@@ -13,4 +13,4 @@ Place to edit, host and look at my current Portfolio.
 
 <hr>
 
-<p>I <strong>love</strong>Currently only for my education</p>
+<p>Currently only for my education</p>
