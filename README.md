@@ -1,9 +1,9 @@
 # Portfolio
 Place to edit, host and look at my current Portfolio.
 
-<h1 align="center">Hello World!</h1>
+<h1 align="center">HTML in the Readme?!?!??!</h1>
 
-<p>My name is Kevin, and here are a few things I'm working on:</p>
+<p>My name is Mike, enjoy my portfolio files ^^</p>
 
 <ul>
   <li>Happy Coding</li>
@@ -13,4 +13,4 @@ Place to edit, host and look at my current Portfolio.
 
 <hr>
 
-<p>I <strong>love</strong> nerding out about creative coding, so don't hesitate to reach out!</p>
+<p>I <strong>love</strong>Currently only for my education</p>
